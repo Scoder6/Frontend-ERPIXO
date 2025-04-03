@@ -50,4 +50,4 @@ Join our community of developers creating universal apps.
 - [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
 
 Below is the Link of the Deployed Application
-- [https://frontend-three-zeta-94.vercel.app/home]
+- https://frontend-three-zeta-94.vercel.app
